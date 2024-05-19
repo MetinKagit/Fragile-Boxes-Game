@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c80a5c96c7e904c87824006e5ebb9486
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosianParticle: {instanceID: 0}
+  - chickenSound: {fileID: 8300000, guid: f8ac1e355ab2149b3ac5ac3cf3b817ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
